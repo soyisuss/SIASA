@@ -1,0 +1,5 @@
+{
+  "name": "SIASA Clone & Chatbot",
+  "description": "A replica of the SIASA security technology website featuring a fully functional Gemini-powered customer support chatbot.",
+  "requestFramePermissions": []
+}
